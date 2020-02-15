@@ -1,2 +1,2 @@
-# fuzzy
+# Uncertainty
 
