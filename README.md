@@ -1,4 +1,15 @@
-# Fuzzy (samar)  
-# Fuzzy Logic  
-# Uncertainty
+## Fuzzy / Uncertainty  
+
+### Materi:  
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.  
+  
+**Refer to:**
+
 
